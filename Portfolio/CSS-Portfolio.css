@@ -1,0 +1,9 @@
+h1 {
+    color: green;
+  }
+
+  h2  {
+      border: 5px double rgba(28,110,164,0.97);
+      border-radius: 31px 31px 31px 31px;
+      }
+  
